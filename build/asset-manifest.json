@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.6c17c126.chunk.css",
-    "main.js": "/static/js/main.efbd5730.chunk.js",
-    "main.js.map": "/static/js/main.efbd5730.chunk.js.map",
+    "main.js": "/static/js/main.5cc477f4.chunk.js",
+    "main.js.map": "/static/js/main.5cc477f4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d6cae85f.js",
     "runtime-main.js.map": "/static/js/runtime-main.d6cae85f.js.map",
-    "static/js/2.f12d964d.chunk.js": "/static/js/2.f12d964d.chunk.js",
-    "static/js/2.f12d964d.chunk.js.map": "/static/js/2.f12d964d.chunk.js.map",
+    "static/js/2.7e16c376.chunk.js": "/static/js/2.7e16c376.chunk.js",
+    "static/js/2.7e16c376.chunk.js.map": "/static/js/2.7e16c376.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.6c17c126.chunk.css.map": "/static/css/main.6c17c126.chunk.css.map",
-    "static/js/2.f12d964d.chunk.js.LICENSE.txt": "/static/js/2.f12d964d.chunk.js.LICENSE.txt",
+    "static/js/2.7e16c376.chunk.js.LICENSE.txt": "/static/js/2.7e16c376.chunk.js.LICENSE.txt",
     "static/media/(DownloadLagu321.Net) Gustixa Death Bed ft Shalom Margaret.mp3": "/static/media/(DownloadLagu321.Net) Gustixa Death Bed ft Shalom Margaret.0252d10e.mp3",
     "static/media/Ardhito Pramono - bitterlove (Official Video).mp3": "/static/media/Ardhito Pramono - bitterlove (Official Video).9d88e749.mp3",
     "static/media/Clarx - Shakedown [NCS Release].mp3": "/static/media/Clarx - Shakedown [NCS Release].c3f9a057.mp3",
+    "static/media/DJ Izinkan Kurasakan PerhatianmuThomas Arya feat Iqa Nizam.mp3": "/static/media/DJ Izinkan Kurasakan PerhatianmuThomas Arya feat Iqa Nizam.aa4d2168.mp3",
     "static/media/Dj Tik Tok terbaru 2020 - Dj Saranghae Tik Tok Remix Terbaru 2020 Full Bass Viral Enak.mp3": "/static/media/Dj Tik Tok terbaru 2020 - Dj Saranghae Tik Tok Remix Terbaru 2020 Full Bass Viral Enak.9555dbae.mp3",
+    "static/media/Djperhatianmu.jpg": "/static/media/Djperhatianmu.47addf86.jpg",
+    "static/media/Fallenkingdom.jpg": "/static/media/Fallenkingdom.b9fde150.jpg",
     "static/media/Gustixa - falling in love (ft. Yara Fabricante).mp3": "/static/media/Gustixa - falling in love (ft. Yara Fabricante).84201776.mp3",
     "static/media/Gustixa - lemon tree.mp3": "/static/media/Gustixa - lemon tree.aca7881b.mp3",
     "static/media/Gustixa - past lives remix.mp3": "/static/media/Gustixa - past lives remix.c72ae6ab.mp3",
@@ -35,6 +38,7 @@
     "static/media/avatar3.jpg": "/static/media/avatar3.58f0cf2c.jpg",
     "static/media/bot.jpg": "/static/media/bot.ccdc7ca5.jpg",
     "static/media/djopus.jpg": "/static/media/djopus.5d82cc49.jpg",
+    "static/media/fallen kingdom (Gustixa Remix).mp3": "/static/media/fallen kingdom (Gustixa Remix).9f82d81b.mp3",
     "static/media/file_example_MP3_1MG.mp3": "/static/media/file_example_MP3_1MG.006bd74b.mp3",
     "static/media/file_example_MP3_5MG.mp3": "/static/media/file_example_MP3_5MG.f23f9d95.mp3",
     "static/media/happy (Gustixa ft. Nida Havia).mp3": "/static/media/happy (Gustixa ft. Nida Havia).8acd6776.mp3",
@@ -56,8 +60,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d6cae85f.js",
-    "static/js/2.f12d964d.chunk.js",
+    "static/js/2.7e16c376.chunk.js",
     "static/css/main.6c17c126.chunk.css",
-    "static/js/main.efbd5730.chunk.js"
+    "static/js/main.5cc477f4.chunk.js"
   ]
 }

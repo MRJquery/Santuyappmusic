@@ -174,6 +174,38 @@ let musicDB = [
         download: null,
         stream: "https://www.youtube.com/watch?v=kAXQpwwof5M&t=1834s"
     }
+},
+{
+  id: 11,
+  name: "Fallen Kingdom ",
+  author_name: "Gustixa",
+  img: "Fallenkingdom.jpg",
+  lang: "ENGLISH",
+  timesPlayed: 0,
+  type: "remix",
+  musicName: "fallen kingdom (Gustixa Remix).mp3",
+  attribution: {
+      song: "fallen kingdom (Gustixa Remix).mp3",
+      musicBy: "Gustixa",
+      download: null,
+      stream: null
+  }
+},
+{
+  id: 12,
+  name: "DJ PerhatianMU",
+  author_name: "Arya feat Iqa Nizam",
+  img: "Djperhatianmu.jpg",
+  lang: "Indonesia",
+  timesPlayed: 0,
+  type: "remix",
+  musicName: "DJ Izinkan Kurasakan PerhatianmuThomas Arya feat Iqa Nizam.mp3",
+  attribution: {
+      song: "DJ Izinkan Kurasakan PerhatianmuThomas Arya feat Iqa Nizam.mp3",
+      musicBy: "Gustixa",
+      download: null,
+      stream: null
+  }
 }
 ];
 
