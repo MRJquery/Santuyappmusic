@@ -3,7 +3,7 @@
 </h1>
 
 
-## TECHNOLOGY USED
+## TECHNOLOGY : 
 
 * ### [React.js](https://reactjs.org/)
     * ###### [react-router](https://github.com/ReactTraining/react-router#readme)
@@ -13,5 +13,3 @@
     * ###### [context API](https://reactjs.org/docs/context.html)
     * ###### [scss](https://sass-lang.com/)
    
-
-![Screenshot from 2021-05-10 07-08-59](https://user-images.githubusercontent.com/54059328/117591434-ae0c0e80-b15e-11eb-8152-b83b6c2f6f3c.png)
